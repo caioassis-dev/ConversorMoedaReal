@@ -1,4 +1,4 @@
-# ConversorMoedaReal
+# 💵 Conversor de Moeda Real 💵
 Sistema que converte moeda Real (R$) com cotação atual, criada com as ferramentas de HTML, CSSe JAVASCRIPT.
 
 <div style="display:inline_block" >
@@ -8,6 +8,6 @@ Sistema que converte moeda Real (R$) com cotação atual, criada com as ferramen
 
 
 
-### Preview!!  
+### Clique na imagem abaixo para acessar o site: 
   
 [![Captura de Tela 2022-05-26 às 21 35 30](https://user-images.githubusercontent.com/61170444/170605654-1ae85aa1-e551-4f1e-9798-89a087ca0b45.png)](https://caioassis-dev.github.io/ConversorMoedaReal/)  
